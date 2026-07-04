@@ -1,5 +1,7 @@
 # Brown’s Lazy Shuffle Revival
 
+![Brown’s Lazy Shuffle Revival preview](resources/thumbnail.png)
+
 A macOS screensaver compatibility revival/fix for newer macOS versions.
 
 Recent macOS releases, such as Sonoma and later, redesigned the wallpaper and screensaver architecture. Some older third-party legacy screensavers may crash, freeze, or show a black screen when running through the `legacyScreenSaver` compatibility layer.
