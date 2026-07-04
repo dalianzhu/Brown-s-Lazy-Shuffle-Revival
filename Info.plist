@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>BrownsLazyShuffleRevival</string>
+    <key>CFBundleIdentifier</key>
+    <string>local.browns-lazy-shuffle-revival.screensaver</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Brown’s Lazy Shuffle Revival</string>
+    <key>CFBundleDisplayName</key>
+    <string>Brown’s Lazy Shuffle Revival</string>
+    <key>CFBundlePackageType</key>
+    <string>BNDL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>11.0</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>Local compatibility wrapper for an extracted user-provided video.</string>
+    <key>NSPrincipalClass</key>
+    <string>BrownsLazyShuffleView</string>
+</dict>
+</plist>

@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build outputs
+build/
+*.saver/
+
+# Xcode / local metadata
+DerivedData/
+*.xcuserstate
+
